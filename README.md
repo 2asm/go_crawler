@@ -29,7 +29,7 @@ $ got rum main.go -seed "https://www.google.com/" -same_host=true
 ...
 ```
 
-``` Code
+``` Golang 
 func main() {
 	var seed string = "https://www.google.com/"
 	var same_host bool = true
