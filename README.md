@@ -1,4 +1,4 @@
-go_crawler
+# go_crawler
 
 Fast golang crawler
 
@@ -10,7 +10,7 @@ $ go rum main.go -h
     	Crawl only the seed domain (default true)
   -seed string
     	Enter seed url (default "https://www.google.com/")
-$ got rum main.go -seed "https://www.google.com/" -same_host=true
+$ go run main.go -seed="https://www.google.com/" -same_host=true
 2023/11/28 14:33:20 https://www.google.com/
 2023/11/28 14:33:21 https://www.google.com/imghp?hl=en&tab=wi
 2023/11/28 14:33:21 https://www.google.com/preferences%3Fhl=en
