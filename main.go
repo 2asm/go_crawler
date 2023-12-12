@@ -14,7 +14,7 @@ import (
 
 type Crawler struct {
 	mu    sync.Mutex
-	vis   map[string]bool
+	// vis   map[string]bool
 	bf    *bloomfilter.BloomFilter
 	seed  *url.URL
 	same  bool
@@ -27,7 +27,7 @@ func NewCrawler(seed *url.URL, same bool) *Crawler {
 		seed:  seed,
 		same:  same,
 		sites: make(chan *url.URL, 1),
-		vis:   make(map[string]bool),
+		// vis:   make(map[string]bool),
         bf: bloomfilter.NewBloomFilter(0.01,1000),
 	}
 	//c.vis[seed.String()] = true
