@@ -1,7 +1,7 @@
-github.com/2asm/bloom-filter v0.0.0-20231206165046-9092e2014813 h1:peEUXrUcGHjCuisi/k9/cBiRRFLUtoPRvT1D36aF++Q=
-github.com/2asm/bloom-filter v0.0.0-20231206165046-9092e2014813/go.mod h1:9N+3rLe6wgJlk6PkauPjOdjAAC7DzIX+N7s0S1X8YCs=
 github.com/2asm/bloom-filter v0.0.0-20231212054015-6c52262c2b07 h1:/1XyVxn9ndQefjRWCqxsN5/EDsORD0HavK0e9o8FNmA=
 github.com/2asm/bloom-filter v0.0.0-20231212054015-6c52262c2b07/go.mod h1:T0CdLswcIur/MMljD8Zmb+X8ECqEP46QTyutwTWPgeU=
+github.com/2asm/bloom-filter v0.0.0-20240112170917-f3516d3f44c9 h1:Yzc9yjZ+s/HhRRerbU50inNarvIaLqBTUzRwIQ7xag4=
+github.com/2asm/bloom-filter v0.0.0-20240112170917-f3516d3f44c9/go.mod h1:T0CdLswcIur/MMljD8Zmb+X8ECqEP46QTyutwTWPgeU=
 github.com/spaolacci/murmur3 v1.1.0 h1:7c1g84S4BPRrfL5Xrdp6fOJ206sU9y293DDHaoy0bLI=
 github.com/spaolacci/murmur3 v1.1.0/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
 golang.org/x/net v0.19.0 h1:zTwKpTd2XuCqf8huc7Fo2iSy+4RHPd10s4KzeTnVr1c=
